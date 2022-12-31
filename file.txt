@@ -1,5 +1,15 @@
 [
-
+    {
+        "id": 1,
+        "firstName": "Vernon",
+        "lastName": "Harper",
+        "email": "egestas.rhoncus.Proin@massaQuisqueporttitor.org",
+        "programme": "Financial Analysis",
+        "courses": [
+            "Accounting",
+            "Statistics"
+        ]
+    },
     {
         "id": 2,
         "firstName": "Murphy",
@@ -11,17 +21,6 @@
             "Statistics"
         ]
     },
-     {
-            "id": 1,
-            "firstName": "Vernon",
-            "lastName": "Harper",
-            "email": "primetesting@gmail.com",
-            "programme": "Financial Analysis",
-            "courses": [
-                "Accounting",
-                "Statistics"
-            ]
-        },
     {
         "id": 3,
         "firstName": "Reece",
